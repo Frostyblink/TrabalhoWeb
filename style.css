@@ -1,0 +1,30 @@
+body{
+  background-color: #000;
+  margin: 0;
+}
+.texto{
+  color: white;
+}
+.click{
+  background-color: #4af74a;
+  color: #000000;
+  border: 2px solid white;
+  width: 50%;
+  height: 150px;
+  margin: auto;
+}
+
+.tempo{
+  color: white;
+  text-align: center;
+  text-size: 25px;
+}
+
+.botoes{
+  width: 50%;
+  margin: auto;
+}
+
+.verde{
+  color:#4af74a;
+}
